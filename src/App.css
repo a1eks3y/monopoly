@@ -1,0 +1,6 @@
+#root {
+    background: #262C2F;
+}
+html, body {
+    @apply h-screen w-screen m-0 max-h-screen overflow-auto
+}
